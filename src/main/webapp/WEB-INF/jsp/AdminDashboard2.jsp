@@ -82,11 +82,9 @@ a, a:hover {
 				<p class="display-2 text-success">Welcome</p>
 				<p style="font-size: 30px;">To International Patient Management
 					System</p>
-				<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy
-					text used in laying out print, graphic or web designs. The passage
-					is attributed to an unknown typesetter in the 15th century who is
-					thought to have scrambled parts of Cicero's De Finibus Bonorum et
-					Malorum for use in a type specimen book.</p>
+				<p>A leading hospital wants to bring up a web application to list and choose the treatment
+packages for International patients, register them, track their treatment to closure thru insurance
+claim</p>
 			</div>
 		</div>
 	</div>
